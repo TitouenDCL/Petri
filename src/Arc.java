@@ -7,6 +7,7 @@ public class Arc {
 	}
 	public boolean arc_valide() {
 		//TODO TEST WALLA C UN GROS TEST
+		// GROS BG
 		return true;
 	}
 }
